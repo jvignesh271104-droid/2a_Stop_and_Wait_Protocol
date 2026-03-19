@@ -32,7 +32,7 @@ while True:
 
 conn.close()
 ```
-2. cilent.py
+2. client.py
 ```
 import socket
 
